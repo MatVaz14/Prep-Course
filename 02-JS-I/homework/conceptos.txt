@@ -1,0 +1,23 @@
+---
+
+## Instrucciones
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+---
+Concepto => Variables
+Podemos pensar a una Variable, como una caja, en la cual nosotros podemos guardar una cosa dentro de ella, a esa caja podemos darle un nombre, para poder identificar lo que guardamos en ella. Y podemos crear tantas Variables como nosotros querramos sin repetir sus nombres, y que siempre comiencen con una letra, sin simbolos.
+
+Concepto => Strings
+
+
+Concepto => Funciones (argumentos, 'return')
+
+
+Concepto => Declaraciones 'if'
